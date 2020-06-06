@@ -1,2 +1,0 @@
-# simulation
-Created with CodeSandbox
